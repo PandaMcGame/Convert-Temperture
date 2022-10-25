@@ -4,5 +4,5 @@ def convert_fahrenheit_to_celsius(fahrenheit: float):
 
 
 def convert_celsius_to_fahrenheit(celsius: float):
-    fahrenheit = celsius * 9/5 + 32
+    fahrenheit = celsius * 9 / 5 + 32
     return "{:.1f} °F".format(fahrenheit)
