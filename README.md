@@ -1,2 +1,3 @@
 # Convert-Temperture
-Convert Celsius to Fahrenheit or Convert Fahrenheit to Celsius
+[x] Convert Celsius to Fahrenheit
+[x] Convert Fahrenheit to Celsius
